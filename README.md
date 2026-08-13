@@ -167,6 +167,20 @@ B.Tech — Computer Science & Engineering (Data Science)
 ## ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
-## 📸 Project Preview
+## 📸 Project Screenshots
 
-![InterviewIQ Preview](./project-preview.png)
+### 🏠 Home Page
+![Home Page](./Screenshot%202026-08-13%20183757.png)
+
+### 🔐 Authentication
+![Authentication](./Screenshot%202026-08-13%20183818.png)
+
+### 🎤 Interview Interface
+![Interview Interface](./Screenshot%202026-08-13%20183934.png)
+
+### 📊 Interview Dashboard
+![Dashboard](./Screenshot%202026-08-13%20184024.png)
+
+### 📈 Interview Result
+![Interview Result](./Screenshot%202026-08-13%20184056.png)
+
